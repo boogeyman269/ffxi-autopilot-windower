@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon>
+  <name>autopilot</name>
+  <author>you</author>
+  <version>0.4</version>
+  <description>Autopilot: assist/heal/PLD tank helper with HUD for private servers.</description>
+  <commands><command>ap</command></commands>
+  <dependencies>
+    <library>config</library>
+    <library>resources</library>
+    <library>texts</library>
+  </dependencies>
+</addon>
